@@ -153,8 +153,6 @@ with the four corners always in the on state, how many lights are on
 after 100 steps?
 """
 
-from pprint import pprint
-
 
 def init(size):
     matrix = []
